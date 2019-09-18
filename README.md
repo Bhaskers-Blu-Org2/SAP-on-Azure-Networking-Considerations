@@ -23,7 +23,7 @@ Learn how to deploy Azure Virtual WAN here: https://docs.microsoft.com/en-us/azu
 
 Azure ExpressRoute is a private connection to the Microsoft network.  Microsoft has 200+ partners around the world that can deliver connections to one or many of our 50+ ExpressRoute locations. Customers can either leverage connections that network partners have pre-established with Microsoft or through a cloud exchange partner.  Customer also have the option to connect with Microsoft ExpressRoute routers (MSEE) directly using ExpressRoute Direct.  These connections can be done at either 10 Gbps or 100 Gbps speeds. ExpressRoute has two different routing domains or peerings. Microsoft peering is used to access Azure platform services, Dynamics 365 and Office 365 (with approval) using public IP addresses. In SAP deployments, Azure private peering is used to access SAP Virtual Machines or HANA Large Instance systems using private IP addresses.  
 
-![alt text](https://github.com/jaimesc/images/blob/master/ERSites.png)
+![alt text](https://github.com/jaimesc/images/blob/master/ERSites.PNG)
 
 Learn how to deploy ExpressRoute here: https://docs.microsoft.com/en-us/azure/expressroute/ 
 
